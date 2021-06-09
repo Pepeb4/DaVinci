@@ -1,0 +1,231 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19043.1023; Version 2009; 64bit' Language: 'pl' Physical Memory: 8142 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\PROGRAMY\UNITY\HUB\EDITOR\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/DaVinci/DaVinci
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65280
+Successfully changed project path to: D:/DaVinci/DaVinci
+D:/DaVinci/DaVinci
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 63.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/DaVinci/DaVinci/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6647
+Initialize mono
+Mono path[0] = 'D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56668
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002824 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 65.03 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.123 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005467 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 63.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.356 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2692 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.0 MB.
+System memory in use after: 120.3 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3097.
+Total: 3.646500 ms (FindLiveObjects: 0.233600 ms CreateObjectMapping: 0.110500 ms MarkObjects: 1.932000 ms  DeleteObjects: 1.369000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Modele/DaVinciTank
+  artifactKey: Guid(ffe7addd43136fb49adc2de90fd1a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank using Guid(ffe7addd43136fb49adc2de90fd1a47c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81baffdc40f128197c35c8f46cd0165') in 0.011581 seconds
+  Import took 0.015788 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.278133 seconds.
+  path: Assets/Modele/Quixel
+  artifactKey: Guid(1e2a29378b1078849b0cd94fbcea45a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel using Guid(1e2a29378b1078849b0cd94fbcea45a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '803e2499a3c8c497444f8abf5856fcb7') in 0.011710 seconds
+  Import took 0.016157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.850580 seconds.
+  path: Assets/Modele/DaVinciTank/DaVinciTank.fbx
+  artifactKey: Guid(b96074030ff91f1428f75e4df99bc405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank/DaVinciTank.fbx using Guid(b96074030ff91f1428f75e4df99bc405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f716be8ad5bfae1ac1d9730870b0d8') in 0.541044 seconds
+  Import took 0.552782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 303.627094 seconds.
+  path: Assets/Modele/Quixel/ukphdffaw_4K_Albedo.jpg
+  artifactKey: Guid(816eda366ea804045bbf5e382744df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/ukphdffaw_4K_Albedo.jpg using Guid(816eda366ea804045bbf5e382744df77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a805af3c705bdffff9b1fc019adb079') in 0.071021 seconds
+  Import took 0.076839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Modele/Quixel/ukphdffaw_LOD1.fbx
+  artifactKey: Guid(27f36b3f7f25ae048a8ff77941e4140b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/ukphdffaw_LOD1.fbx using Guid(27f36b3f7f25ae048a8ff77941e4140b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8ecce9391335f64db67c3ecbe3894d4') in 0.021260 seconds
+  Import took 0.026405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Modele/Quixel/ukphdffaw_4K_Normal_LOD0.jpg
+  artifactKey: Guid(1027d510ad2442043977249a8a15f499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/ukphdffaw_4K_Normal_LOD0.jpg using Guid(1027d510ad2442043977249a8a15f499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863fb215941474c198b439ab5033d270') in 0.021640 seconds
+  Import took 0.026925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.210022 seconds.
+  path: Assets/Modele/Quixel/New Material.mat
+  artifactKey: Guid(00e5a59a25979c4479e5ba8b040b3dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/New Material.mat using Guid(00e5a59a25979c4479e5ba8b040b3dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f36bcc23fbe71c748b6c31e4098794d6') in 0.331392 seconds
+  Import took 0.335964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 285.030535 seconds.
+  path: Assets/Modele/Quixel/stolik
+  artifactKey: Guid(4679ed4a01027b44eace9791fdd03256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/stolik using Guid(4679ed4a01027b44eace9791fdd03256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a3ef6dcb73107f5ae8ec270cf96c87d') in 0.008762 seconds
+  Import took 0.014461 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 716.811851 seconds.
+  path: Assets/Modele/Quixel/stolik/New Material.mat
+  artifactKey: Guid(00e5a59a25979c4479e5ba8b040b3dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/stolik/New Material.mat using Guid(00e5a59a25979c4479e5ba8b040b3dcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e982694eddf09484b9fa5cfa6f183433') in 0.057124 seconds
+  Import took 0.064654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modele/Quixel/stolik/ukphdffaw_4K_Normal_LOD0.jpg
+  artifactKey: Guid(1027d510ad2442043977249a8a15f499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/stolik/ukphdffaw_4K_Normal_LOD0.jpg using Guid(1027d510ad2442043977249a8a15f499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28881ef6c3f1fbcc6c8adbdfe9054a7c') in 0.038532 seconds
+  Import took 0.046545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.430538 seconds.
+  path: Assets/Modele/Quixel/stolik/ukphdffaw_4K_Normal_LOD1.jpg
+  artifactKey: Guid(3c59ed4aaba6fb242a1f75e095ddd65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/stolik/ukphdffaw_4K_Normal_LOD1.jpg using Guid(3c59ed4aaba6fb242a1f75e095ddd65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e05bb1fbf3caee142d32a92555318129') in 0.021708 seconds
+  Import took 0.027616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/Modele/Quixel/stolik/ukphdffaw_4K_Specular.jpg
+  artifactKey: Guid(f1446e2602cf4c14eae5c6ea69a21aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/stolik/ukphdffaw_4K_Specular.jpg using Guid(f1446e2602cf4c14eae5c6ea69a21aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47adc1fb506a69b2da5e39b4780ffc02') in 0.019781 seconds
+  Import took 0.027661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.403630 seconds.
+  path: Assets/Modele/Quixel/stolik/ukphdffaw_4K_Normal_LOD1.jpg
+  artifactKey: Guid(3c59ed4aaba6fb242a1f75e095ddd65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/stolik/ukphdffaw_4K_Normal_LOD1.jpg using Guid(3c59ed4aaba6fb242a1f75e095ddd65c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e329117b77dab09b3d655d7dcae9f6bb') in 0.031009 seconds
+  Import took 0.036828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.804459 seconds.
+  path: Assets/Modele/Quixel/klocki
+  artifactKey: Guid(f7a57a67513ccb44ba7475c44aa630b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/klocki using Guid(f7a57a67513ccb44ba7475c44aa630b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f0b503d09bd2c791d11eb51553606d7') in 0.008410 seconds
+  Import took 0.012974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.316059 seconds.
+  path: Assets/Modele/Quixel/klocki/ufgibbwva_4K_Albedo.jpg
+  artifactKey: Guid(db9d3f91d90093640a5c02e7d6a52830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/klocki/ufgibbwva_4K_Albedo.jpg using Guid(db9d3f91d90093640a5c02e7d6a52830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f22fafc8361b20b492f5f8702ce84161') in 0.026094 seconds
+  Import took 0.031982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Modele/Quixel/klocki/ufgibbwva_4K_Normal_LOD1.jpg
+  artifactKey: Guid(bb96854859e27a34aa5fc2fbd0183fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/klocki/ufgibbwva_4K_Normal_LOD1.jpg using Guid(bb96854859e27a34aa5fc2fbd0183fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8360d98c939fd788f7a7f0fa2316f0be') in 0.022693 seconds
+  Import took 0.028299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Modele/Quixel/klocki/ufgibbwva_4K_Specular.jpg
+  artifactKey: Guid(6361aa93cb38e7e429160947de08a64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/klocki/ufgibbwva_4K_Specular.jpg using Guid(6361aa93cb38e7e429160947de08a64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b6a033b2716d38fd7114be2060e47c') in 0.020253 seconds
+  Import took 0.027908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Modele/Quixel/klocki/ufgibbwva_LOD1.fbx
+  artifactKey: Guid(85cc620888976f941b6c72e1661fe79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/klocki/ufgibbwva_LOD1.fbx using Guid(85cc620888976f941b6c72e1661fe79e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216a99de1ef67929e5b6b92618cf7028') in 0.064242 seconds
+  Import took 0.070469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Modele/Quixel/klocki/ufgibbwva_4K_AO.jpg
+  artifactKey: Guid(ad8e5f48f26185e49aad52fb371a6dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/klocki/ufgibbwva_4K_AO.jpg using Guid(ad8e5f48f26185e49aad52fb371a6dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86f5a2db7d77998838004ca9a75363ad') in 0.020607 seconds
+  Import took 0.025787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.909434 seconds.
+  path: Assets/Modele/Quixel/klocki/ufgibbwva_4K_Normal_LOD1.jpg
+  artifactKey: Guid(bb96854859e27a34aa5fc2fbd0183fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/Quixel/klocki/ufgibbwva_4K_Normal_LOD1.jpg using Guid(bb96854859e27a34aa5fc2fbd0183fcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1664f7eb33be837e9fa0b03b3cfd1ae') in 0.033100 seconds
+  Import took 0.039088 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

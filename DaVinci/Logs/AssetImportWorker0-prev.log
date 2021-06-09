@@ -1,0 +1,287 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19043.1023; Version 2009; 64bit' Language: 'pl' Physical Memory: 8142 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\PROGRAMY\UNITY\HUB\EDITOR\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/DaVinci/DaVinci
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58758
+Successfully changed project path to: D:/DaVinci/DaVinci
+D:/DaVinci/DaVinci
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 267.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/DaVinci/DaVinci/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 680 (ID=0x1180)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   27.21.14.6647
+Initialize mono
+Mono path[0] = 'D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56868
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/PROGRAMY/UNITY/HUB/EDITOR/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004018 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 17.591 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 68.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.835 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2692 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 3093.
+Total: 3.900000 ms (FindLiveObjects: 0.242600 ms CreateObjectMapping: 0.108200 ms MarkObjects: 1.928900 ms  DeleteObjects: 1.618700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Modele/DaVinciTank.fbx
+  artifactKey: Guid(3dcdde1e7f2ebdd4490b7fdc29027d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank.fbx using Guid(3dcdde1e7f2ebdd4490b7fdc29027d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a8ec7860cae2e9f68221833dd2d5e7') in 0.544251 seconds
+  Import took 0.549058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.895980 seconds.
+  path: Assets/Modele/DaVinciTank2.fbx
+  artifactKey: Guid(920e62f3d9083134a82637eecba65748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank2.fbx using Guid(920e62f3d9083134a82637eecba65748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5263a450beb6da42b94c61ef0604dbed') in 0.169992 seconds
+  Import took 0.179988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.587805 seconds.
+  path: Assets/Modele/DaVinciTank2.fbx
+  artifactKey: Guid(920e62f3d9083134a82637eecba65748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank2.fbx using Guid(920e62f3d9083134a82637eecba65748) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f938b177f9a83a69546d0f686dfe9378') in 0.151830 seconds
+  Import took 0.169217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Modele/zwyklymetal.mat
+  artifactKey: Guid(40839333a228a94429494ebeb243e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/zwyklymetal.mat using Guid(40839333a228a94429494ebeb243e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86653b2b868afb5437d9ed639d2ebc7b') in 0.018481 seconds
+  Import took 0.023049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Modele/zewnetrznymetal.mat
+  artifactKey: Guid(4a26d8552a1569e478d501f1047e6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/zewnetrznymetal.mat using Guid(4a26d8552a1569e478d501f1047e6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb86147c6949d1c91f6522f91c33038') in 0.014063 seconds
+  Import took 0.018284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.669440 seconds.
+  path: Assets/Modele/DaVinciTank_zwyklymetal_Roughness.png
+  artifactKey: Guid(9bcb86614b34ef941a3b592dcf6674b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zwyklymetal_Roughness.png using Guid(9bcb86614b34ef941a3b592dcf6674b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680beca49ec517c355c356f5ba860e2c') in 0.048408 seconds
+  Import took 0.053491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037600 seconds.
+  path: Assets/Modele/DaVinciTank_zewnetrznymetal_Albedo.png
+  artifactKey: Guid(68e01af2327b002469202dd152fb7104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zewnetrznymetal_Albedo.png using Guid(68e01af2327b002469202dd152fb7104) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039be8b8711c484460999f98f9abdb53') in 0.025746 seconds
+  Import took 0.031030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Modele/DaVinciTank_zewnetrznymetal_AO.png
+  artifactKey: Guid(42623184f38969b41b11d61d814ae364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zewnetrznymetal_AO.png using Guid(42623184f38969b41b11d61d814ae364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d4a1438d1fca28c1013ea79d5236f6') in 0.019932 seconds
+  Import took 0.025127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000404 seconds.
+  path: Assets/Modele/DaVinciTank_zewnetrznymetal_Normal.png
+  artifactKey: Guid(3028a0ff4c876c94299aeee56c761240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zewnetrznymetal_Normal.png using Guid(3028a0ff4c876c94299aeee56c761240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84ca01a00c40c484245d558ca4fbb57') in 0.017333 seconds
+  Import took 0.021688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Modele/DaVinciTank_zwyklymetal_Normal.png
+  artifactKey: Guid(ab54461be0a082d409b0fd4b22108110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zwyklymetal_Normal.png using Guid(ab54461be0a082d409b0fd4b22108110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a8d062d235426c9d8ee25251150b71d') in 0.016231 seconds
+  Import took 0.020848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Modele/DaVinciTank_zwyklymetal_Albedo.png
+  artifactKey: Guid(fa072c8835bd4864ab834a11cbab361c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zwyklymetal_Albedo.png using Guid(fa072c8835bd4864ab834a11cbab361c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02e296a264db1631edea39164539599e') in 0.016278 seconds
+  Import took 0.020402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Modele/DaVinciTank_zwyklymetal_AO.png
+  artifactKey: Guid(7d1faf5fd57c1e44781f4267af199d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zwyklymetal_AO.png using Guid(7d1faf5fd57c1e44781f4267af199d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71a057d53b9e59c34320270d1e8e2b4') in 0.019452 seconds
+  Import took 0.024805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Modele/DaVinciTank_zewnetrznymetal_Roughness.png
+  artifactKey: Guid(3d166b9370882de409a4c916b701527a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zewnetrznymetal_Roughness.png using Guid(3d166b9370882de409a4c916b701527a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d0ff889fe5fdb4bf6c79253c94c49e') in 0.019069 seconds
+  Import took 0.031396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Modele/DaVinciTank_zwyklymetal_Metalness.png
+  artifactKey: Guid(e5be4fbeea0e3e542a90dd07dadd37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zwyklymetal_Metalness.png using Guid(e5be4fbeea0e3e542a90dd07dadd37ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc69e2fbd0e4dced2ee4fee0f89aa6e') in 0.018647 seconds
+  Import took 0.023455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Modele/DaVinciTank_zewnetrznymetal_Metalness.png
+  artifactKey: Guid(c49be62252263ba4395352d5aa3d04f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zewnetrznymetal_Metalness.png using Guid(c49be62252263ba4395352d5aa3d04f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc2aec351b9fc1179465ab0703db91a7') in 0.016218 seconds
+  Import took 0.021904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.299867 seconds.
+  path: Assets/Modele/test2.dae
+  artifactKey: Guid(bffbf4198827dde46af332902da719da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/test2.dae using Guid(bffbf4198827dde46af332902da719da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c59c9f3762e72edeabb8850bd9eee8d6') in 0.177092 seconds
+  Import took 0.181849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Modele/test4.fbx
+  artifactKey: Guid(fa575ee4ccdb6934e826bad1b86a2384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/test4.fbx using Guid(fa575ee4ccdb6934e826bad1b86a2384) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eac59680e3884d30d6072a77b12cc64c') in 0.127247 seconds
+  Import took 0.131294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 200.178375 seconds.
+  path: Assets/Modele/test5.fbx
+  artifactKey: Guid(b96074030ff91f1428f75e4df99bc405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/test5.fbx using Guid(b96074030ff91f1428f75e4df99bc405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bef845d76b4520f23aa0a7a808aabb2') in 0.155203 seconds
+  Import took 0.161443 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.583048 seconds.
+  path: Assets/Modele/test5.fbx
+  artifactKey: Guid(b96074030ff91f1428f75e4df99bc405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/test5.fbx using Guid(b96074030ff91f1428f75e4df99bc405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b7f37e3bb1ab665d5064f746dc85cd') in 0.151089 seconds
+  Import took 0.157268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Modele/zwyklymetal.mat
+  artifactKey: Guid(40839333a228a94429494ebeb243e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/zwyklymetal.mat using Guid(40839333a228a94429494ebeb243e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd844c85fe9fc39394cf0a74e7bf85cfd') in 0.007813 seconds
+  Import took 0.012172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Modele/zewnetrznymetal.mat
+  artifactKey: Guid(4a26d8552a1569e478d501f1047e6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/zewnetrznymetal.mat using Guid(4a26d8552a1569e478d501f1047e6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e4b6f70db4ba97f9ef111c80331df82') in 0.007900 seconds
+  Import took 0.012089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.345080 seconds.
+  path: Assets/Modele/DaVinciTank_zewnetrznymetal_Normal.png
+  artifactKey: Guid(3028a0ff4c876c94299aeee56c761240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zewnetrznymetal_Normal.png using Guid(3028a0ff4c876c94299aeee56c761240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6969f07a9670842083879d57f1bd1588') in 0.041806 seconds
+  Import took 0.048135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.901740 seconds.
+  path: Assets/Modele/New Shader Graph.shadergraph
+  artifactKey: Guid(4bb937af1c037e1438bfb6da26667ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/New Shader Graph.shadergraph using Guid(4bb937af1c037e1438bfb6da26667ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d295172333d6db6e5cf074354a7cda') in 0.009931 seconds
+  Import took 0.015311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.766962 seconds.
+  path: Assets/Modele/New Shader Graph.shadergraph
+  artifactKey: Guid(4bb937af1c037e1438bfb6da26667ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/New Shader Graph.shadergraph using Guid(4bb937af1c037e1438bfb6da26667ef5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d295172333d6db6e5cf074354a7cda') in 0.004628 seconds
+  Import took 0.010037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 706.214704 seconds.
+  path: Assets/Modele/DaVinciTank_zwyklymetal_Normal.png
+  artifactKey: Guid(ab54461be0a082d409b0fd4b22108110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/DaVinciTank_zwyklymetal_Normal.png using Guid(ab54461be0a082d409b0fd4b22108110) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53bce6efb5830087c29a4f55a395bb7e') in 0.035730 seconds
+  Import took 0.042985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.030349 seconds.
+  path: Assets/Modele/zewnetrznymetal.mat
+  artifactKey: Guid(4a26d8552a1569e478d501f1047e6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/zewnetrznymetal.mat using Guid(4a26d8552a1569e478d501f1047e6954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db68899a23791ed4fa12be4363b09aa4') in 0.057672 seconds
+  Import took 0.064696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Modele/zwyklymetal.mat
+  artifactKey: Guid(40839333a228a94429494ebeb243e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Modele/zwyklymetal.mat using Guid(40839333a228a94429494ebeb243e7c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a61910551b4f24e5c93448bd7908a46') in 0.053903 seconds
+  Import took 0.060718 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
